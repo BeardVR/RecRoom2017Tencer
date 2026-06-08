@@ -1,2 +1,3 @@
 # RecRoom2017Tencer
-This is a build of RR that is from 2017. Please read the actual Read me file in downloads
+PLEASE READ THIS MESSAGE AS IT IS IMPORTANT: The build of the game is now stored on archive.org. the link will be here soon.
+Hello, and welcome to this repo. This repo only has a Q&A as the build can not be legally put on github. All instructions should be on the first release and in that release there should be a Readme file. go check that please.
