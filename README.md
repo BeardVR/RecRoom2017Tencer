@@ -1,2 +1,2 @@
 # RecRoom2017Tencer
-Rec Room 2017 build
+This is a build of RR that is from 2017. Please read the actual Read me file in downloads
