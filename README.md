@@ -3,3 +3,5 @@ PLEASE READ THIS MESSAGE AS IT IS IMPORTANT: The build of the game is now stored
 
 
 Hello, and welcome to this repo. This repo only has a Q&A and set up as the build can't really be legally put on github. All instructions should be on the first release and in that release there should be a Readme file. go check that please.
+
+Yeah so if this repo suddenly gains traction i'll make a 2016 build or something
